@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OptimizedJavaDemo</string>
+    <string name="title_calculate_fibonacci">Tính toán số hạng thứ n của dãy Fibonacci </string>
+    <string name="input">Nhập n:</string>
+    <string name="text_calculate">Tính</string>
+    <string name="naive_fibonacci">Fibonacci chưa tối ưu: </string>
+    <string name="text_calculate_time">Thời gian tính toán</string>
+    <string name="ms">ms</string>
+    <string name="text_calculate_recursively_with_loop">Fibonacci vòng lặp kiểu đệ quy</string>
+</resources>
